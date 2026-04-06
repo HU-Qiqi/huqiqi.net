@@ -1,0 +1,4 @@
+# allow google
+User-agent: *
+Allow: /
+Sitemap: https://huqiqi.net/sitemap.xml
