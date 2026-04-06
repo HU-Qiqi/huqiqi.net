@@ -173,6 +173,51 @@ breadcrumbs: true
   border: 1px solid #d1fae5;
 }
 
+/* DOI — 灰色/深蓝 */
+.pub .badge-doi {
+  background: #f8fafc;
+  color: #64748b;
+  border: 1px solid #e2e8f0;
+}
+
+/* Button styles for links like Code, DOI, etc. */
+.pub-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 14px;
+  margin-right: 10px;
+  margin-top: 12px;
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: #fff !important;
+  background: #2a59ff;
+  border-radius: 8px;
+  text-decoration: none !important;
+  border: none !important;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 2px 4px rgba(42, 89, 255, 0.1);
+}
+.pub-btn:hover {
+  background: #1e40b5;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 15px rgba(42, 89, 255, 0.25);
+}
+.pub-btn:active {
+  transform: translateY(0);
+}
+.pub-btn i {
+  font-size: 0.95rem;
+}
+.pub-btn.btn-gh {
+  background: #24292e;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.pub-btn.btn-gh:hover {
+  background: #000;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+}
+
 /* 链接视觉统一 */
 .pub .body a { 
   color: #2a59ff; 
@@ -223,15 +268,16 @@ breadcrumbs: true
     </div>
     <div class="body">
       <p class="title">
-        <a href="https://github.com/HU-Qiqi/thermal-runaway-severity-prediction">
-          Safety-Oriented Pre-Event Severity Prediction of Lithium-Ion Battery Thermal Runaway
+        <a href="https://doi.org/10.1016/j.psep.2026.108830">
+          Safety-oriented pre-event severity prediction of lithium-ion battery thermal runaway using interpretable machine learning
         </a><br>
         <span class="badge-advisor"><i class="fas fa-user-tie"></i> Advisor: Minqiang Wu, Hongda Du</span>
       </p>
       <div class="meta">
         <span class="badge badge-type"><i class="fas fa-file-alt"></i> Journal Article</span>
         <span class="badge badge-venue"><i class="fas fa-book"></i> Process Safety and Environmental Protection</span>
-        <span class="badge badge-date"><i class="fas fa-calendar"></i> 2025.11–2026.02</span>
+        <span class="badge badge-date"><i class="fas fa-calendar"></i> 2026.04</span>
+        <span class="badge badge-doi"><i class="fas fa-link"></i> DOI: 10.1016/j.psep.2026.108830</span>
         <span class="badge badge-if"><i class="fas fa-chart-line"></i> IF 7.8</span>
       </div>
       <p>
@@ -242,6 +288,7 @@ breadcrumbs: true
       <p>
         提出一种基于<strong>结构与工程元数据</strong>的锂离子电池<strong>热失控事前严重度预测框架</strong>，构建融合放热与喷射特征的<strong>危险导向严重度指数（Severity Index）</strong>，并基于 <strong>CatBoost</strong> 实现多分类预测，整体准确率达 <strong>81%</strong>，对高危事件识别率 <strong>100%</strong>。通过 SHAP 可解释分析揭示关键安全影响因素，支持风险导向电池安全评估。
       </p>
+      <a href="https://github.com/HU-Qiqi/thermal-runaway-severity-prediction" class="pub-btn btn-gh"><i class="fab fa-github"></i> Code</a>
     </div>
   </div>
 
@@ -252,11 +299,17 @@ breadcrumbs: true
       </a>
     </div>
     <div class="body">
-      <p class="title">Design and Multi-Objective Optimization of Efficient UAV Battery Thermal Management System Using PCM–Air Synergistic Cooling Strategy<br><span class="badge-advisor"><i class="fas fa-user-tie"></i> Advisor: Minqiang Wu, Hongda Du</span></p>
+      <p class="title">
+        <a href="https://doi.org/10.1016/j.applthermaleng.2026.130845">
+          Design and Multi-Objective Optimization of Efficient UAV Battery Thermal Management System Using PCM–Air Synergistic Cooling Strategy
+        </a><br>
+        <span class="badge-advisor"><i class="fas fa-user-tie"></i> Advisor: Minqiang Wu, Hongda Du</span>
+      </p>
       <div class="meta">
         <span class="badge badge-type"><i class="fas fa-file-alt"></i> Journal Article</span>
         <span class="badge badge-venue"><i class="fas fa-book"></i> Applied Thermal Engineering</span>
-        <span class="badge badge-date"><i class="fas fa-calendar"></i> 2025.09–2025.12</span>
+        <span class="badge badge-date"><i class="fas fa-calendar"></i> 2026.03</span>
+        <span class="badge badge-doi"><i class="fas fa-link"></i> DOI: 10.1016/j.applthermaleng.2026.130845</span>
         <span class="badge badge-if"><i class="fas fa-chart-line"></i> IF 6.9</span>
       </div>
       <p>Developed a <strong>PCM–air hybrid battery thermal management system (BTMS)</strong> for UAV lithium-ion batteries, achieving <strong>43.3% lower peak temperature (below 46.8 °C)</strong> with only <strong>22.2 wt% mass increase</strong>. Multi-factor optimization using an <strong>entropy–TOPSIS</strong> framework ensures a balance between cooling performance and lightweight design.</p>
@@ -272,9 +325,7 @@ breadcrumbs: true
     </div>
     <div class="body">
       <p class="title">
-        <a href="https://github.com/HU-Qiqi/WM_encoder_decoder">
-          WM_encoder_decoder for Copyright Protection in Image-to-Image Tasks (Diffusion)
-        </a> · <a href="https://huqiqi.net/file/WM_encoder_decoder.pptx">PPT</a><br>
+        WM_encoder_decoder for Copyright Protection in Image-to-Image Tasks (Diffusion) · <a href="https://huqiqi.net/file/WM_encoder_decoder.pptx">PPT</a><br>
         <span class="badge-advisor"><i class="fas fa-user-tie"></i> Advisor: Feng Zheng</span>
       </p>
       <div class="meta">
@@ -283,6 +334,7 @@ breadcrumbs: true
       </div>
       <p>Dual-protection scheme combining <strong>digital watermarking</strong> and <strong>adversarial perturbations</strong> in the latent space; precise embed/extract via a pre-trained encoder–decoder; robust, transferable, and high-quality without model fine-tuning.</p>
       <p>提出<strong>数字水印 + 对抗扰动</strong>的双重保护方案，在隐空间抑制篡改与生成操控；无需微调、具有良好迁移性与鲁棒性。</p>
+      <a href="https://github.com/HU-Qiqi/WM_encoder_decoder" class="pub-btn btn-gh"><i class="fab fa-github"></i> Code</a>
     </div>
   </div>
 
