@@ -143,20 +143,42 @@ I aim to bridge the gap between *materials, systems, and decision-making* throug
 
 ## <i data-lucide="code-2" class="icon-rigorous"></i> Skills / Research Toolkit
 
-<div class="skill-tag-container">
-  <span class="skill-tag">Python</span>
-  <span class="skill-tag">MATLAB</span>
-  <span class="skill-tag">C</span>
-  <span class="skill-tag">LaTeX</span>
-  <span class="skill-tag">PyTorch</span>
-  <span class="skill-tag">TensorFlow</span>
-  <span class="skill-tag">scikit-learn</span>
-  <span class="skill-tag">Linux</span>
-  <span class="skill-tag">Git</span>
-  <span class="skill-tag">VSCode</span>
-  <span class="skill-tag">Anaconda</span>
-  <span class="skill-tag">COMSOL</span>
-  <span class="skill-tag">English (Fluent)</span>
+<div class="skill-group">
+  <span class="skill-title">Programming</span>
+  <div class="skill-tag-container">
+    <span class="skill-tag">Python</span>
+    <span class="skill-tag">MATLAB</span>
+    <span class="skill-tag">C</span>
+    <span class="skill-tag">LaTeX</span>
+  </div>
+</div>
+
+<div class="skill-group">
+  <span class="skill-title">Frameworks</span>
+  <div class="skill-tag-container">
+    <span class="skill-tag">PyTorch</span>
+    <span class="skill-tag">TensorFlow</span>
+    <span class="skill-tag">scikit-learn</span>
+  </div>
+</div>
+
+<div class="skill-group">
+  <span class="skill-title">Tools & Simulation</span>
+  <div class="skill-tag-container">
+    <span class="skill-tag">Linux</span>
+    <span class="skill-tag">Git</span>
+    <span class="skill-tag">VSCode</span>
+    <span class="skill-tag">Anaconda</span>
+    <span class="skill-tag">COMSOL</span>
+  </div>
+</div>
+
+<div class="skill-group">
+  <span class="skill-title">Languages</span>
+  <div class="skill-tag-container">
+    <span class="skill-tag">Chinese (Native)</span>
+    <span class="skill-tag">English (Fluent)</span>
+  </div>
 </div>
 
 

@@ -346,7 +346,7 @@ breadcrumbs: true
     </div>
     <div class="body">
       <p class="title">
-        <a href="https://www.researchgate.net/publication/385489004_Privacy-Preserving_Secure_Shared_Nearest_Neighbor_Clustering_Scheme_in_Internet_of_Things">
+        <a href="https://ssrn.com/abstract=4625590">
           Privacy-Preserving Secure Shared Nearest Neighbor Clustering Scheme in Internet of Things
         </a><br><span class="badge-advisor"><i class="fas fa-user-tie"></i> Advisor: Hanlin Zhang</span>
       </p>
