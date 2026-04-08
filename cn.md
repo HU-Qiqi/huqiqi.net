@@ -40,7 +40,7 @@ title: 主页中文版
   <div class="hero-content">
     <h1>你好，我是{{ site.owner.name_cn }} </h1>
     <ul class="styled-list" style="margin-top: 20px;">
-      <li><i data-lucide="graduation-cap" class="icon-rigorous"></i> 清华大学深圳国际研究生院硕士在读，研究数字能源与低碳可持续方向</li>
+      <li><i data-lucide="graduation-cap" class="icon-rigorous"></i> 清华大学深圳国际研究生院硕士在读</li>
       <li><i data-lucide="flask-conical" class="icon-rigorous"></i> <strong>研究领域：</strong> 能源AI、锂离子电池热安全建模、扩散模型、鲁棒机器学习</li>
       <li><i data-lucide="wrench" class="icon-rigorous"></i> <strong>技术栈：</strong> PyTorch、科学机器学习、优化算法、热建模与多物理场仿真</li>
       <li><i data-lucide="target" class="icon-rigorous"></i> <strong>寻求（2027年秋季）博士机会</strong>，目标方向：能源AI、电池安全与热建模、物理系统科学机器学习与生成式模型</li>
