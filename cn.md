@@ -6,9 +6,7 @@ title: 主页中文版
 
 <style>
   .hero-section, .hero-section * {
-    font-family: 'PT Serif', serif !important;
     color: #333332;
-    font-style: normal !important;
   }
   .hero-section {
     background: transparent !important;
@@ -48,20 +46,36 @@ title: 主页中文版
       margin: 0 0 10px 15px !important;
     }
   }
+  /* Professional Icon Styling */
+  .icon-rigorous {
+    width: 1.1em;
+    height: 1.1em;
+    vertical-align: -0.2em;
+    margin-right: 0.5em;
+    color: #4a5568; /* Slate grey for a rigorous look */
+    stroke-width: 2;
+  }
+  h3 .icon-rigorous {
+    width: 1.25em;
+    height: 1.25em;
+    vertical-align: -0.25em;
+    color: #2c3e50;
+    margin-right: 0.6em;
+  }
 </style>
 <div class="hero-section">
   <div class="hero-content">
     <h1>你好，我是{{ site.owner.name_cn }} </h1>
     <ul class="styled-list" style="margin-top: 20px;">
-      <li>🎓 <em>清华大学深圳国际研究生院硕士在读，研究数字能源与低碳可持续方向</em></li>
-      <li>🔬 <em>研究领域：</em> 电池热安全建模、AI赋能的低碳能源系统、扩散模型、可信机器学习</li>
-      <li>🧰 <em>技术栈：</em> PyTorch、科学机器学习、优化算法、热建模与多物理场仿真</li>
-      <li>🎯 <strong>寻求（2027年秋季）博士机会</strong>，目标方向：<em>能源AI、电池安全与热建模、物理系统科学机器学习与生成式模型</em></li>
-      <li>📧 <strong>邮箱：</strong> chelseyhu111@gmail.com</li>
+      <li><i data-lucide="graduation-cap" class="icon-rigorous"></i> 清华大学深圳国际研究生院硕士在读，研究数字能源与低碳可持续方向</li>
+      <li><i data-lucide="flask-conical" class="icon-rigorous"></i> <strong>研究领域：</strong> 电池热安全建模、AI赋能的低碳能源系统、扩散模型、可信机器学习</li>
+      <li><i data-lucide="wrench" class="icon-rigorous"></i> <strong>技术栈：</strong> PyTorch、科学机器学习、优化算法、热建模与多物理场仿真</li>
+      <li><i data-lucide="target" class="icon-rigorous"></i> <strong>寻求（2027年秋季）博士机会</strong>，目标方向：能源AI、电池安全与热建模、物理系统科学机器学习与生成式模型</li>
+      <li><i data-lucide="mail" class="icon-rigorous"></i> <strong>邮箱：</strong> chelseyhu111@gmail.com</li>
     </ul>
     <div class="meta-container" style="margin-top: 25px;">
-      <span class="chip chip-journal">🔬 AI-accelerated Energy Systems</span>
-      <span class="chip chip-if">🎯 目标申请 2027 Fall PhD</span>
+      <span class="chip chip-journal"><i data-lucide="flask-conical" class="icon-rigorous" style="margin-right: 4px; width: 14px; height: 14px; color: inherit;"></i> AI-accelerated Energy Systems</span>
+      <span class="chip chip-if"><i data-lucide="target" class="icon-rigorous" style="margin-right: 4px; width: 14px; height: 14px; color: inherit;"></i> 目标申请 2027 Fall PhD</span>
     </div>
   </div>
 </div>
@@ -78,40 +92,40 @@ title: 主页中文版
 
 ---
 
-### 📖 教育背景
+### <i data-lucide="book-open" class="icon-rigorous"></i> 教育背景
 - **2023 – 至今**  工学硕士，清华大学深圳国际研究生院，环境科学与新能源技术专业
 - **2024 – 2025**  访问学生，南方科技大学，工学院计算机科学与工程系 
 - **2019 – 2023**  工学学士，青岛大学计算机科学技术学院，信息安全专业  
 
 ---
 
-### 🎯 研究愿景
+### <i data-lucide="target" class="icon-rigorous"></i> 研究愿景
 我希望结合**人工智能、优化与能源科学**，构建面向**低碳与可持续能源系统**的智能决策与建模方法， 以数据驱动和可解释的AI框架，连接能源材料、系统运行与碳减排决策。
 
 ---
 
-### 🔬 研究兴趣
+### <i data-lucide="microscope" class="icon-rigorous"></i> 研究兴趣
 
-- ⚡ **能源系统与储能电池的人工智能（AI for Energy Systems & Battery Storage）**  
+- <i data-lucide="zap" class="icon-rigorous" style="width: 1em; height: 1em;"></i> **能源系统与储能电池的人工智能（AI for Energy Systems & Battery Storage）**  
   - 电池储能系统安全的**数据驱动建模**与**智能预测**
   - 面向低碳、安全与稳定运行的**能源系统智能优化**
   - 能源系统与多能网络的**机器学习**建模与优化
   - 能源器件**物理过程**的科学机器学习与**生成式模型**
 
-- 🔥 **热管理与能源安全**  
+- <i data-lucide="thermometer" class="icon-rigorous" style="width: 1em; height: 1em;"></i> **热管理与能源安全**  
   先前，我的研究聚焦于**锂离子电池热管理**，这也自然延伸出我对**AI驱动能源系统**的兴趣。  
   - 锂离子电池热失控抑制机制与相变材料（PCM）冷却策略  
   - 高倍率放电下的热行为分析与仿真  
   - 有限元建模与多物理场模拟  
 
-- 🤖 **可信人工智能与生成模型安全**
+- <i data-lucide="shield-check" class="icon-rigorous" style="width: 1em; height: 1em;"></i> **可信人工智能与生成模型安全**
   - 基于扩散模型的 AIGC 内容安全研究：利用 PGD 对抗攻击防御和数字水印方法  
   - 云计算与物联网中的隐私保护：包括云端辅助与物联网安全，采用矩阵变换方法实现图像去噪与分割  
   - 将可信机器学习与鲁棒性优化技术拓展应用于数字低碳能源系统
 
 ---
 
-### 📰 最新动态
+### <i data-lucide="megaphone" class="icon-rigorous"></i> 最新动态
 - **2026.03**  一作论文关于锂离子电池热失控预警的研究被 *Process Safety and Environmental Protection* 接收（[DOI](https://doi.org/10.1016/j.psep.2026.108830)）
 - **2026.03**  一作论文关于无人机电池热管理优化的研究被 *Applied Thermal Engineering* 接收（[DOI](https://doi.org/10.1016/j.applthermaleng.2026.130845)）
 - **2026.03**  成功更新了基于AI工具的数字化研究工作流（详见[博客](https://huqiqi.net/blogs/2026_Mar)）。
@@ -123,18 +137,18 @@ title: 主页中文版
 
 ---
 
-### 💻 学术服务
+### <i data-lucide="user-check" class="icon-rigorous"></i> 学术服务
 - *Journal of Computer Security (CCF-B)* 审稿人  
 
 ---
 
-### 📝 研究经历
+### <i data-lucide="history" class="icon-rigorous"></i> 研究经历
 - *2024.01 – 2024.12*  访问研究生，南方科技大学计算机系，可信扩散模型与AIGC内容安全  
 - *2021.01 – 2021.11*  本科科研实习，青岛大学计算机学院，隐私保护与安全外包计算  
 
 ---
 
-### 🧠 技能与科研工具
+### <i data-lucide="code-2" class="icon-rigorous"></i> 技能与科研工具
 我常用的科研开发与仿真工具包括：
 - **编程语言：** Python、MATLAB、C、LaTeX  
 - **框架与库：** PyTorch、TensorFlow（深度学习）、scikit-learn（机器学习）  

@@ -3,9 +3,7 @@ layout: page
 ---
 <style>
   .hero-section, .hero-section * {
-    font-family: 'PT Serif', serif !important;
     color: #333332;
-    font-style: normal !important;
   }
   .hero-section {
     background: transparent !important;
@@ -45,20 +43,36 @@ layout: page
       margin: 0 0 10px 15px !important;
     }
   }
+  /* Professional Icon Styling */
+  .icon-rigorous {
+    width: 1.1em;
+    height: 1.1em;
+    vertical-align: -0.2em;
+    margin-right: 0.5em;
+    color: #4a5568; /* Slate grey for a rigorous look */
+    stroke-width: 2;
+  }
+  h2 .icon-rigorous {
+    width: 1.2em;
+    height: 1.2em;
+    vertical-align: -0.25em;
+    color: #2c3e50;
+    margin-right: 0.6em;
+  }
 </style>
 <div class="hero-section">
   <div class="hero-content">
     <h1>Hi, I'm {{ site.owner.name }} </h1>
     <ul class="styled-list" style="margin-top: 20px;">
-      <li>🎓 <em>Master’s student at Tsinghua University (SIGS), working on AI for Energy & Sustainability</em></li>
-      <li>🔬 <em>Research:</em> thermal safety modeling, AI-accelerated low-carbon energy systems, diffusion models, trustworthy machine learning</li>
-      <li>🧰 <em>Technical strengths:</em> PyTorch, scientific ML, optimization, thermal modeling and multiphysics simulation</li>
-      <li>🎯 <strong>Seeking PhD (Fall 2027)</strong> in <em>Energy-AI, Battery Safety & Thermal Modeling, Scientific ML for Multiphysics Systems, and Physical Generative Models</em></li>
-      <li>📧 <strong>Email:</strong> chelseyhu111@gmail.com</li>
+      <li><i data-lucide="graduation-cap" class="icon-rigorous"></i> Master’s student at Tsinghua University (SIGS), working on AI for Energy & Sustainability</li>
+      <li><i data-lucide="flask-conical" class="icon-rigorous"></i> <strong>Research:</strong> thermal safety modeling, AI-accelerated low-carbon energy systems, diffusion models, trustworthy machine learning</li>
+      <li><i data-lucide="wrench" class="icon-rigorous"></i> <strong>Technical strengths:</strong> PyTorch, scientific ML, optimization, thermal modeling and multiphysics simulation</li>
+      <li><i data-lucide="target" class="icon-rigorous"></i> <strong>Seeking PhD (Fall 2027)</strong> in Energy-AI, Battery Safety & Thermal Modeling, Scientific ML for Multiphysics Systems, and Physical Generative Models</li>
+      <li><i data-lucide="mail" class="icon-rigorous"></i> <strong>Email:</strong> chelseyhu111@gmail.com</li>
     </ul>
     <div class="meta-container" style="margin-top: 25px;">
-      <span class="chip chip-journal">🔬 AI-accelerated Energy Systems</span>
-      <span class="chip chip-if">🎯 Seeking PhD (Fall 2027)</span>
+      <span class="chip chip-journal"><i data-lucide="flask-conical" class="icon-rigorous" style="margin-right: 4px; width: 14px; height: 14px; color: inherit;"></i> AI-accelerated Energy Systems</span>
+      <span class="chip chip-if"><i data-lucide="target" class="icon-rigorous" style="margin-right: 4px; width: 14px; height: 14px; color: inherit;"></i> Seeking PhD (Fall 2027)</span>
     </div>
   </div>
 </div>
@@ -74,13 +88,13 @@ I am always open to discussions and collaborations — feel free to [**email me*
 
 ---
 
-## 🎯 Research Vision
+## <i data-lucide="target" class="icon-rigorous"></i> Research Vision
 My overarching goal is to harness **artificial intelligence and optimization** to accelerate innovation in **low-carbon and sustainable energy systems**.  
 I aim to bridge the gap between *materials, systems, and decision-making* through **trustworthy, data-driven, and interpretable AI frameworks**.
 
 ---
 
-## 🔬 Research Interests
+## <i data-lucide="microscope" class="icon-rigorous"></i> Research Interests
 
 ### Thermal Management and Energy Safety
 Previously, my research focused on thermal management of lithium-ion batteries, which naturally motivated my current interest in **AI-driven energy systems**.
@@ -102,14 +116,14 @@ Previously, my research focused on thermal management of lithium-ion batteries, 
 
 ---
 
-## 🧩 Academic Background
+## <i data-lucide="graduation-cap" class="icon-rigorous"></i> Academic Background
 - **M.Eng. in Environmental Science and New Energy Technology**, Shenzhen International Graduate School, Tsinghua University  
 - Visiting Research Student, Department of Computer Science and Engineering, SUSTech  
 - **B.Eng. in Information Security**, School of Computer Science and Technology, Qingdao University
 
 ---
 
-## 🗞 News and Updates
+## <i data-lucide="megaphone" class="icon-rigorous"></i> News and Updates
 - **2026.03** – Our paper on interpretable prediction of lithium-ion battery thermal runaway severity was accepted by *Process Safety and Environmental Protection* ([DOI](https://doi.org/10.1016/j.psep.2026.108830))
 - **2026.03** – Our paper on UAV battery thermal management optimization using PCM–air cooling was accepted by *Applied Thermal Engineering* ([DOI](https://doi.org/10.1016/j.applthermaleng.2026.130845))
 - **2026.03** – Successfully updated my AI-powered digital research workflow (See [Blog post](https://huqiqi.net/blogs/2026_Mar))
@@ -122,7 +136,7 @@ Previously, my research focused on thermal management of lithium-ion batteries, 
 
 ---
 
-## 🧠 Skills / Research Toolkit
+## <i data-lucide="code-2" class="icon-rigorous"></i> Skills / Research Toolkit
 - **Programming:** Python, MATLAB, C, LaTeX  
 - **Frameworks:** PyTorch, TensorFlow (for deep learning), scikit-learn (for machine learning) 
 - **Tools:** Linux, VSCode, Anaconda, COMSOL, Microsoft Office  
