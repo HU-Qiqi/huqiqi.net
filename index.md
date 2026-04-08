@@ -35,7 +35,7 @@ layout: page
     <h1>Hi, I'm {{ site.owner.name }} </h1>
     <ul class="styled-list" style="margin-top: 20px;">
       <li><i data-lucide="graduation-cap" class="icon-rigorous"></i> Master’s student at Tsinghua University (SIGS), working on AI for Energy & Sustainability</li>
-      <li><i data-lucide="flask-conical" class="icon-rigorous"></i> <strong>Research:</strong> thermal safety modeling, AI-accelerated low-carbon energy systems, diffusion models, trustworthy machine learning</li>
+      <li><i data-lucide="flask-conical" class="icon-rigorous"></i> <strong>Research:</strong> AI for Energy Systems & Storage Safety,thermal safety modeling, diffusion models, robust machine learning</li>
       <li><i data-lucide="wrench" class="icon-rigorous"></i> <strong>Technical strengths:</strong> PyTorch, scientific ML, optimization, thermal modeling and multiphysics simulation</li>
       <li><i data-lucide="target" class="icon-rigorous"></i> <strong>Seeking PhD (Fall 2027)</strong> in Energy-AI, Battery Safety & Thermal Modeling, Scientific ML for Multiphysics Systems, and Physical Generative Models</li>
       <li><i data-lucide="mail" class="icon-rigorous"></i> <strong>Email:</strong> chelseyhu111@gmail.com</li>
@@ -75,7 +75,7 @@ I aim to bridge the gap between *materials, systems, and decision-making* throug
   </div>
   <div class="research-card">
     <h3><i data-lucide="shield-check" class="icon-rigorous" style="width:1.3em;height:1.3em;"></i> Trustworthy AI & Content Security</h3>
-    <p>Researching AIGC content security (Diffusion model watermarking/adversarial defense) and IoT privacy protection, applying <strong>robust optimization</strong> to digital energy systems.</p>
+    <p>Used to research AIGC content security (Diffusion model watermarking/adversarial defense) and IoT privacy protection, hoping to apply <strong>robust optimization</strong> to digital energy systems.</p>
   </div>
 </div>
 

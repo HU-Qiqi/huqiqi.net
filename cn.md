@@ -41,13 +41,13 @@ title: 主页中文版
     <h1>你好，我是{{ site.owner.name_cn }} </h1>
     <ul class="styled-list" style="margin-top: 20px;">
       <li><i data-lucide="graduation-cap" class="icon-rigorous"></i> 清华大学深圳国际研究生院硕士在读，研究数字能源与低碳可持续方向</li>
-      <li><i data-lucide="flask-conical" class="icon-rigorous"></i> <strong>研究领域：</strong> 电池热安全建模、AI赋能的低碳能源系统、扩散模型、可信机器学习</li>
+      <li><i data-lucide="flask-conical" class="icon-rigorous"></i> <strong>研究领域：</strong> 能源AI与储能安全、锂离子电池热安全建模、扩散模型、鲁棒机器学习</li>
       <li><i data-lucide="wrench" class="icon-rigorous"></i> <strong>技术栈：</strong> PyTorch、科学机器学习、优化算法、热建模与多物理场仿真</li>
       <li><i data-lucide="target" class="icon-rigorous"></i> <strong>寻求（2027年秋季）博士机会</strong>，目标方向：能源AI、电池安全与热建模、物理系统科学机器学习与生成式模型</li>
       <li><i data-lucide="mail" class="icon-rigorous"></i> <strong>邮箱：</strong> chelseyhu111@gmail.com</li>
     </ul>
     <div class="meta-container" style="margin-top: 25px;">
-      <span class="chip chip-journal"><i data-lucide="flask-conical" class="icon-rigorous" style="margin-right: 4px; width: 14px; height: 14px; color: inherit;"></i> AI-accelerated Energy Systems</span>
+      <span class="chip chip-journal"><i data-lucide="flask-conical" class="icon-rigorous" style="margin-right: 4px; width: 14px; height: 14px; color: inherit;"></i> AI for Energy Systems & Storage Safety</span>
       <span class="chip chip-if"><i data-lucide="target" class="icon-rigorous" style="margin-right: 4px; width: 14px; height: 14px; color: inherit;"></i> 目标申请 2027 Fall PhD</span>
     </div>
   </div>
@@ -109,7 +109,7 @@ title: 主页中文版
   </div>
   <div class="research-card">
     <h3><i data-lucide="shield-check" class="icon-rigorous" style="width:1.3em;height:1.3em;"></i> 可信AI与内容安全</h3>
-    <p>研究 AIGC 内容安全（Diffusion模型水印/对抗防御）及物联网隐私保护，将<strong>鲁棒优化</strong>应用于数字能源系统。</p>
+    <p>曾经研究 AIGC 内容安全（Diffusion模型水印/对抗防御）及物联网隐私保护，未来希望将<strong>鲁棒优化</strong>应用于数字能源系统。</p>
   </div>
 </div>
 
