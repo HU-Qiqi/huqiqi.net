@@ -52,8 +52,15 @@
 </style>
 
 <div class="author__bio-container">
-  <span class="author__bio-title">Master @ Tsinghua SIGS</span>
-  <span class="author__bio-subtitle">AI for Energy Systems & Low-Carbon Innovation</span>
+  {% if page.url contains '/cn/' %}
+    {% assign bio_parts_cn = site.owner.bio_cn | split: '，' %}
+    <span class="author__bio-title">{{ bio_parts_cn[0] }}</span>
+    <span class="author__bio-subtitle">{{ bio_parts_cn[1] }}</span>
+  {% else %}
+    {% assign bio_parts = site.owner.bio | split: ' | ' %}
+    <span class="author__bio-title">{{ bio_parts[0] }}</span>
+    <span class="author__bio-subtitle">{{ bio_parts[1] }}</span>
+  {% endif %}
 </div>
 
 <ul class="author__social-links">
