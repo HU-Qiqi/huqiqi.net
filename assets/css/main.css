@@ -3874,14 +3874,31 @@ body .top-navigation li a {
   background: #ffffff;
   border-radius: 16px;
   padding: 40px;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 4px 25px rgba(0, 0, 0, 0.04);
   border: 1px solid rgba(0, 0, 0, 0.03);
-  font-family: 'PT Serif', serif !important;
 }
 
-/* 强制 hero 内所有元素继承正文字体 */
-.hero-section * {
+/* Ensure all hero content follows system font stack */
+.hero-section, .hero-section * {
   font-family: inherit !important;
+}
+
+/* Professional & Premium Icon Styling (Global) */
+.icon-rigorous {
+  width: 1.15em;
+  height: 1.15em;
+  vertical-align: -0.25em;
+  margin-right: 0.5em;
+  color: #3b82f6; /* Sophisticated Scholar Blue */
+  stroke-width: 2.5; /* Slightly bolder for premium rigor */
+}
+
+h1 .icon-rigorous, h2 .icon-rigorous, h3 .icon-rigorous {
+  width: 1.25em;
+  height: 1.25em;
+  vertical-align: -0.3em;
+  color: #1e40af; /* Deeper blue for headers */
+  margin-right: 0.6em;
 }
 
 .hero-content {

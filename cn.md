@@ -5,17 +5,6 @@ title: 主页中文版
 ---
 
 <style>
-  .hero-section, .hero-section * {
-    color: #333332;
-  }
-  .hero-section {
-    background: transparent !important;
-    box-shadow: none !important;
-    border: none !important;
-    border-radius: 0 !important;
-    padding: 0 !important;
-    margin-bottom: 30px;
-  }
   .hero-section h1 {
     color: #2c3e50;
   }
@@ -45,22 +34,6 @@ title: 主页中文版
       width: 30% !important;
       margin: 0 0 10px 15px !important;
     }
-  }
-  /* Professional Icon Styling */
-  .icon-rigorous {
-    width: 1.1em;
-    height: 1.1em;
-    vertical-align: -0.2em;
-    margin-right: 0.5em;
-    color: #4a5568; /* Slate grey for a rigorous look */
-    stroke-width: 2;
-  }
-  h3 .icon-rigorous {
-    width: 1.25em;
-    height: 1.25em;
-    vertical-align: -0.25em;
-    color: #2c3e50;
-    margin-right: 0.6em;
   }
 </style>
 <div class="hero-section">
