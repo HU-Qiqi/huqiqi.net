@@ -41,7 +41,7 @@ title: 主页中文版
     <h1>你好，我是{{ site.owner.name_cn }} </h1>
     <ul class="styled-list" style="margin-top: 20px;">
       <li><i data-lucide="graduation-cap" class="icon-rigorous"></i> 清华大学深圳国际研究生院硕士在读，研究数字能源与低碳可持续方向</li>
-      <li><i data-lucide="flask-conical" class="icon-rigorous"></i> <strong>研究领域：</strong> 能源AI与储能安全、锂离子电池热安全建模、扩散模型、鲁棒机器学习</li>
+      <li><i data-lucide="flask-conical" class="icon-rigorous"></i> <strong>研究领域：</strong> 能源AI、锂离子电池热安全建模、扩散模型、鲁棒机器学习</li>
       <li><i data-lucide="wrench" class="icon-rigorous"></i> <strong>技术栈：</strong> PyTorch、科学机器学习、优化算法、热建模与多物理场仿真</li>
       <li><i data-lucide="target" class="icon-rigorous"></i> <strong>寻求（2027年秋季）博士机会</strong>，目标方向：能源AI、电池安全与热建模、物理系统科学机器学习与生成式模型</li>
       <li><i data-lucide="mail" class="icon-rigorous"></i> <strong>邮箱：</strong> chelseyhu111@gmail.com</li>
@@ -57,7 +57,7 @@ title: 主页中文版
 
 <img src="/images/2.jpg" alt="Profile Picture" class="about-me-photo">
 
-我是胡齐齐，2002年生，目前就读于**{{ site.owner.university_cn }}{{ site.owner.department_cn }}**，攻读环境科学与新能源技术专业硕士学位，师从[**{{ site.owner.advisor_cn }}**]({{ site.owner.advisor_url }})，在**{{ site.owner.lab_cn }}**开展研究。我目前的研究聚焦于**人工智能与可持续能源系统的交叉领域（AI for Energy Systems & Low-carbon Innovation）**，探索利用数据驱动与优化方法推动低碳能源技术创新。  
+我是胡齐齐，2002年生，目前就读于**{{ site.owner.university_cn }}{{ site.owner.department_cn }}**，攻读环境科学与新能源技术专业硕士学位，师从[**{{ site.owner.advisor_cn }}**]({{ site.owner.advisor_url }})，在**{{ site.owner.lab_cn }}**开展研究。我目前的研究聚焦于**人工智能与储能的交叉领域（AI for Energy Storage）**，探索利用数据驱动与优化方法推动低碳能源技术创新。  
 
 此前，我曾在南方科技大学[**郑锋教授**](https://faculty.sustech.edu.cn/?tagid=fengzheng&iscss=1&snapid=1&orderby=date&go=2)领导的视觉智能与感知课题组访问交流，研究可信扩散模型与AIGC内容安全。 本科毕业于青岛大学计算机科学技术学院信息安全专业，在[**张翰林教授**](https://cst.qdu.edu.cn/info/1072/7423.htm)指导下从事隐私保护与物联网安全研究。 张教授师从[**Wei Yu 教授**](https://www.towson.edu/fcsm/departments/computerinfosci/facultystaff/wyu.html)（NSF CAREER Award获得者）。 这段经历为我奠定了扎实的算法与安全研究基础，也激发了我将**人工智能方法应用于能源科学与低碳系统建模**的兴趣。
 
@@ -94,13 +94,13 @@ title: 主页中文版
 ---
 
 ### <i data-lucide="target" class="icon-rigorous"></i> 研究愿景
-我希望结合**人工智能、优化与能源科学**，构建面向**低碳与可持续能源系统**的智能决策与建模方法， 以数据驱动和可解释的AI框架，连接能源材料、系统运行与碳减排决策。
+我希望结合**人工智能、优化与能源科学**，构建面向低碳与可持续能源系统的智能决策与建模方法，以**数据驱动、可解释且鲁棒的AI框架**，连接材料热机理、系统运行与**能源安全控制**。
 
 ---
 
 <div class="research-grid">
   <div class="research-card">
-    <h3><i data-lucide="zap" class="icon-rigorous" style="width:1.3em;height:1.3em;"></i> 能源AI与储能安全</h3>
+    <h3><i data-lucide="zap" class="icon-rigorous" style="width:1.3em;height:1.3em;"></i> 能源AI</h3>
     <p>聚焦电池储能系统的<strong>数据驱动建模</strong>、安全预警与智能优化，探索物理过程的科学机器学习与生成式模型。</p>
   </div>
   <div class="research-card">
@@ -108,7 +108,7 @@ title: 主页中文版
     <p>研究锂离子电池热失控抑制机制、高倍率放电热行为PCM耦合等冷却策略，利用<strong>多物理场仿真</strong>提升能源安全。</p>
   </div>
   <div class="research-card">
-    <h3><i data-lucide="shield-check" class="icon-rigorous" style="width:1.3em;height:1.3em;"></i> 可信AI与内容安全</h3>
+    <h3><i data-lucide="shield-check" class="icon-rigorous" style="width:1.3em;height:1.3em;"></i> 鲁棒优化</h3>
     <p>曾经研究 AIGC 内容安全（Diffusion模型水印/对抗防御）及物联网隐私保护，未来希望将<strong>鲁棒优化</strong>应用于数字能源系统。</p>
   </div>
 </div>

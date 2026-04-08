@@ -35,7 +35,7 @@ layout: page
     <h1>Hi, I'm {{ site.owner.name }} </h1>
     <ul class="styled-list" style="margin-top: 20px;">
       <li><i data-lucide="graduation-cap" class="icon-rigorous"></i> Master’s student at Tsinghua University (SIGS), working on AI for Energy & Sustainability</li>
-      <li><i data-lucide="flask-conical" class="icon-rigorous"></i> <strong>Research:</strong> AI for Energy Systems & Storage Safety,thermal safety modeling, diffusion models, robust machine learning</li>
+      <li><i data-lucide="flask-conical" class="icon-rigorous"></i> <strong>Research:</strong> AI for Energy Storage, thermal safety modeling, diffusion models, robust machine learning</li>
       <li><i data-lucide="wrench" class="icon-rigorous"></i> <strong>Technical strengths:</strong> PyTorch, scientific ML, optimization, thermal modeling and multiphysics simulation</li>
       <li><i data-lucide="target" class="icon-rigorous"></i> <strong>Seeking PhD (Fall 2027)</strong> in Energy-AI, Battery Safety & Thermal Modeling, Scientific ML for Multiphysics Systems, and Physical Generative Models</li>
       <li><i data-lucide="mail" class="icon-rigorous"></i> <strong>Email:</strong> chelseyhu111@gmail.com</li>
@@ -60,13 +60,13 @@ I am always open to discussions and collaborations — feel free to [**email me*
 
 ## <i data-lucide="target" class="icon-rigorous"></i> Research Vision
 My overarching goal is to harness **artificial intelligence and optimization** to accelerate innovation in **low-carbon and sustainable energy systems**.  
-I aim to bridge the gap between *materials, systems, and decision-making* through **trustworthy, data-driven, and interpretable AI frameworks**.
+I aim to bridge the gap between *material thermal mechanisms, system operations, and energy safety control* through **data-driven, interpretable, and robust AI frameworks**.
 
 ---
 
 <div class="research-grid">
   <div class="research-card">
-    <h3><i data-lucide="zap" class="icon-rigorous" style="width:1.3em;height:1.3em;"></i> AI for Energy Systems & Storage Safety</h3>
+    <h3><i data-lucide="zap" class="icon-rigorous" style="width:1.3em;height:1.3em;"></i> AI for Energy Storage</h3>
     <p>Focusing on <strong>data-driven modeling</strong>, safety early warning, and intelligent optimization for battery energy storage systems, exploring scientific machine learning and generative models for physical processes.</p>
   </div>
   <div class="research-card">
@@ -74,7 +74,7 @@ I aim to bridge the gap between *materials, systems, and decision-making* throug
     <p>Investigating thermal runaway suppression mechanisms in lithium-ion batteries and cooling strategies like PCM coupling under high-rate discharge thermal behaviors, using <strong>multiphysics simulation</strong> to enhance energy safety.</p>
   </div>
   <div class="research-card">
-    <h3><i data-lucide="shield-check" class="icon-rigorous" style="width:1.3em;height:1.3em;"></i> Trustworthy AI & Content Security</h3>
+    <h3><i data-lucide="shield-check" class="icon-rigorous" style="width:1.3em;height:1.3em;"></i> Optimization </h3>
     <p>Used to research AIGC content security (Diffusion model watermarking/adversarial defense) and IoT privacy protection, hoping to apply <strong>robust optimization</strong> to digital energy systems.</p>
   </div>
 </div>
