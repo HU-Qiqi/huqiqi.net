@@ -125,6 +125,6 @@ title: 主页中文版
 我常用的科研开发与仿真工具包括：
 - **编程语言：** Python、MATLAB、C、LaTeX  
 - **框架与库：** PyTorch、TensorFlow（深度学习）、scikit-learn（机器学习）  
-- **科研工具：** Linux、VSCode、Anaconda、COMSOL 多物理场仿真、Microsoft Office  
+- **科研工具：** Linux、Git、VSCode、Anaconda、COMSOL 多物理场仿真  
 - **语言能力：** 中文（母语）、英文（流利）
 
