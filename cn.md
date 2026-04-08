@@ -104,8 +104,8 @@ title: 主页中文版
     <p>聚焦电池储能系统的<strong>数据驱动建模</strong>、安全预警与智能优化，探索物理过程的科学机器学习与生成式模型。</p>
   </div>
   <div class="research-card">
-    <h3><i data-lucide="thermometer" class="icon-rigorous" style="width:1.3em;height:1.3em;"></i> 热管理与能源安全</h3>
-    <p>研究锂离子电池热失控抑制机制、PCM耦合冷却策略及高倍率放电热行为，利用<strong>多物理场仿真</strong>提升能源安全。</p>
+    <h3><i data-lucide="thermometer" class="icon-rigorous" style="width:1.3em;height:1.3em;"></i> 电池热管理与能源安全</h3>
+    <p>研究锂离子电池热失控抑制机制、高倍率放电热行为PCM耦合等冷却策略，利用<strong>多物理场仿真</strong>提升能源安全。</p>
   </div>
   <div class="research-card">
     <h3><i data-lucide="shield-check" class="icon-rigorous" style="width:1.3em;height:1.3em;"></i> 可信AI与内容安全</h3>

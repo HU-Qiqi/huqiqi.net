@@ -66,16 +66,16 @@ I aim to bridge the gap between *materials, systems, and decision-making* throug
 
 <div class="research-grid">
   <div class="research-card">
-    <h3><i data-lucide="thermometer" class="icon-rigorous" style="width:1.3em;height:1.3em;"></i> Thermal Safety & Safety</h3>
-    <p>Investigating thermal runaway mechanisms and PCM-based hybrid cooling strategies using finite element modeling and multiphysics simulation for lithium-ion battery safety.</p>
+    <h3><i data-lucide="zap" class="icon-rigorous" style="width:1.3em;height:1.3em;"></i> AI for Energy Systems & Storage Safety</h3>
+    <p>Focusing on <strong>data-driven modeling</strong>, safety early warning, and intelligent optimization for battery energy storage systems, exploring scientific machine learning and generative models for physical processes.</p>
   </div>
   <div class="research-card">
-    <h3><i data-lucide="zap" class="icon-rigorous" style="width:1.3em;height:1.3em;"></i> AI for Energy Systems</h3>
-    <p>Data-driven modeling for battery energy storage safety, intelligent optimization for low-carbon energy operations, and scientific ML for physical processes in energy devices.</p>
+    <h3><i data-lucide="thermometer" class="icon-rigorous" style="width:1.3em;height:1.3em;"></i> Battery Thermal Management & Energy Safety</h3>
+    <p>Investigating thermal runaway suppression mechanisms in lithium-ion batteries and cooling strategies like PCM coupling under high-rate discharge thermal behaviors, using <strong>multiphysics simulation</strong> to enhance energy safety.</p>
   </div>
   <div class="research-card">
-    <h3><i data-lucide="shield-check" class="icon-rigorous" style="width:1.3em;height:1.3em;"></i> Trustworthy AI & AIGC</h3>
-    <p>Content safety for AIGC using diffusion models, privacy-preserving in IoT/Cloud, and extending robust optimization toward digital low-carbon energy applications.</p>
+    <h3><i data-lucide="shield-check" class="icon-rigorous" style="width:1.3em;height:1.3em;"></i> Trustworthy AI & Content Security</h3>
+    <p>Researching AIGC content security (Diffusion model watermarking/adversarial defense) and IoT privacy protection, applying <strong>robust optimization</strong> to digital energy systems.</p>
   </div>
 </div>
 
