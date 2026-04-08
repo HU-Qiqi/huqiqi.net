@@ -3867,18 +3867,17 @@ body .top-navigation li a {
   border-radius: 0 8px 8px 0;
 }
 
-/* ===== Custom Hero Card Section ===== */
+/* ===== Custom Hero Section (Flat Styling) ===== */
 .hero-section {
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 50px;
-  margin-bottom: 40px;
-  background: #ffffff;
-  border-radius: 16px;
-  padding: 40px;
-  box-shadow: 0 4px 25px rgba(0, 0, 0, 0.04);
-  border: 1px solid rgba(0, 0, 0, 0.03);
+  margin-bottom: 30px;
+  background: transparent;
+  padding: 0;
+  box-shadow: none;
+  border: none;
 }
 
 /* Ensure all hero content follows system font stack */
@@ -3893,10 +3892,8 @@ body .top-navigation li a {
   height: 1.15em;
   vertical-align: -0.25em;
   margin-right: 0.5em;
-  color: #3b82f6;
-  /* Sophisticated Scholar Blue */
-  stroke-width: 2.5;
-  /* Slightly bolder for premium rigor */
+  color: #333333; /* Rigorous Deep Charcoal */
+  stroke-width: 2.25; /* Slightly more refined stroke weight */
 }
 
 h1 .icon-rigorous,
@@ -3905,8 +3902,7 @@ h3 .icon-rigorous {
   width: 1.25em;
   height: 1.25em;
   vertical-align: -0.3em;
-  color: #1e40af;
-  /* Deeper blue for headers */
+  color: #000000; /* Deep Black for headers */
   margin-right: 0.6em;
 }
 
