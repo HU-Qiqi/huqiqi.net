@@ -64,53 +64,100 @@ I aim to bridge the gap between *materials, systems, and decision-making* throug
 
 ---
 
-## <i data-lucide="microscope" class="icon-rigorous"></i> Research Interests
-
-### Thermal Management and Energy Safety
-Previously, my research focused on thermal management of lithium-ion batteries, which naturally motivated my current interest in **AI-driven energy systems**.
-- Investigating mechanisms for suppressing thermal runaway in lithium-ion batteries and developing **PCM-based hybrid cooling strategies**  
-- Thermal management of LIBs under high-power discharge conditions using **finite element modeling** and **multiphysics simulation**  
-- Applications in energy storage and electronic thermal control  
-
-### AI for Energy Systems & Battery Storage
-- Data-driven modeling and intelligent prediction of **battery energy storage safety**
-- Intelligent optimization for **low-carbon, safe, and stable energy operation**
-- ML-based modeling and optimization of energy systems and multi-energy networks 
-- Scientific ML & generative models for physical processes in energy devices  
-
-
-### Trustworthy AI & Secure Generative Models
-- **Content safety for AIGC** using diffusion models — PGD-based adversarial defense and encoder–decoder watermarking  
-- **Privacy-preserving in cloud computing and Internet of Things**, including cloud-assisted and IoT security with matrix transformation methods for image denoising and segmentation  
-- Extending **trustworthy machine learning** and robust optimization techniques toward **digital low-carbon energy applications**
+<div class="research-grid">
+  <div class="research-card">
+    <h3><i data-lucide="thermometer" class="icon-rigorous" style="width:1.3em;height:1.3em;"></i> Thermal Safety & Safety</h3>
+    <p>Investigating thermal runaway mechanisms and PCM-based hybrid cooling strategies using finite element modeling and multiphysics simulation for lithium-ion battery safety.</p>
+  </div>
+  <div class="research-card">
+    <h3><i data-lucide="zap" class="icon-rigorous" style="width:1.3em;height:1.3em;"></i> AI for Energy Systems</h3>
+    <p>Data-driven modeling for battery energy storage safety, intelligent optimization for low-carbon energy operations, and scientific ML for physical processes in energy devices.</p>
+  </div>
+  <div class="research-card">
+    <h3><i data-lucide="shield-check" class="icon-rigorous" style="width:1.3em;height:1.3em;"></i> Trustworthy AI & AIGC</h3>
+    <p>Content safety for AIGC using diffusion models, privacy-preserving in IoT/Cloud, and extending robust optimization toward digital low-carbon energy applications.</p>
+  </div>
+</div>
 
 ---
 
 ## <i data-lucide="graduation-cap" class="icon-rigorous"></i> Academic Background
-- **M.Eng. in Environmental Science and New Energy Technology**, Shenzhen International Graduate School, Tsinghua University  
-- Visiting Research Student, Department of Computer Science and Engineering, SUSTech  
-- **B.Eng. in Information Security**, School of Computer Science and Technology, Qingdao University
+
+<div class="timeline">
+  <div class="timeline-item">
+    <span class="timeline-date">2024.09 — Present </span>
+    <div class="timeline-content">
+      <strong>M.Eng. in Environmental Science and New Energy Technology</strong><br>
+      Shenzhen International Graduate School, Tsinghua University
+    </div>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2024.03 — 2024.08 </span>
+    <div class="timeline-content">
+      <strong>Visiting Research Student</strong><br>
+      Department of Computer Science and Engineering, SUSTech
+    </div>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2020.09 — 2024.06 </span>
+    <div class="timeline-content">
+      <strong>B.Eng. in Information Security</strong><br>
+      School of Computer Science and Technology, Qingdao University
+    </div>
+  </div>
+</div>
 
 ---
 
 ## <i data-lucide="megaphone" class="icon-rigorous"></i> News and Updates
-- **2026.03** – Our paper on interpretable prediction of lithium-ion battery thermal runaway severity was accepted by *Process Safety and Environmental Protection* ([DOI](https://doi.org/10.1016/j.psep.2026.108830))
-- **2026.03** – Our paper on UAV battery thermal management optimization using PCM–air cooling was accepted by *Applied Thermal Engineering* ([DOI](https://doi.org/10.1016/j.applthermaleng.2026.130845))
-- **2026.03** – Successfully updated my AI-powered digital research workflow (See [Blog post](https://huqiqi.net/blogs/2026_Mar))
-- **2026.02** – Started preparing a comprehensive review on phase-change-material-based thermal management for lithium-ion batteries
-- **2025.11** – Initiated research on AI-driven early warning of lithium-ion battery thermal runaway
-- **2025.09** – Studied thermal management of lithium-ion batteries under high-rate discharge using coupled PCM and air cooling
-- **2025.05** – Investigated the effects of PCM-assisted air cooling on thermal runaway propagation in lithium-ion battery modules
-- **2024.03** – Explored copyright protection in diffusion-based image-to-image generation
+
+<div class="timeline">
+  <div class="timeline-item">
+    <span class="timeline-date">2026.03</span>
+    <div class="timeline-content">Our paper on interpretable prediction of lithium-ion battery thermal runaway severity was accepted by <strong>Process Safety and Environmental Protection</strong> (<a href="https://doi.org/10.1016/j.psep.2026.108830">DOI</a>)</div>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2026.03</span>
+    <div class="timeline-content">Our paper on UAV battery thermal management optimization using PCM–air cooling was accepted by <strong>Applied Thermal Engineering</strong> (<a href="https://doi.org/10.1016/j.applthermaleng.2026.130845">DOI</a>)</div>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2026.03</span>
+    <div class="timeline-content">Successfully updated my AI-powered digital research workflow (See <a href="https://huqiqi.net/blogs/2026_Mar">Blog post</a>)</div>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2026.02</span>
+    <div class="timeline-content">Started preparing a comprehensive review on phase-change-material-based thermal management for lithium-ion batteries</div>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2025.11</span>
+    <div class="timeline-content">Initiated research on AI-driven early warning of lithium-ion battery thermal runaway</div>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2025.09</span>
+    <div class="timeline-content">Studied thermal management of lithium-ion batteries under high-rate discharge using coupled PCM and air cooling</div>
+  </div>
+</div>
 
 
 ---
 
 ## <i data-lucide="code-2" class="icon-rigorous"></i> Skills / Research Toolkit
-- **Programming:** Python, MATLAB, C, LaTeX  
-- **Frameworks:** PyTorch, TensorFlow (for deep learning), scikit-learn (for machine learning) 
-- **Tools:** Linux, Git, VSCode, Anaconda, COMSOL
-- **Languages:** Chinese (Native), English (Fluent)
+
+<div class="skill-tag-container">
+  <span class="skill-tag">Python</span>
+  <span class="skill-tag">MATLAB</span>
+  <span class="skill-tag">C</span>
+  <span class="skill-tag">LaTeX</span>
+  <span class="skill-tag">PyTorch</span>
+  <span class="skill-tag">TensorFlow</span>
+  <span class="skill-tag">scikit-learn</span>
+  <span class="skill-tag">Linux</span>
+  <span class="skill-tag">Git</span>
+  <span class="skill-tag">VSCode</span>
+  <span class="skill-tag">Anaconda</span>
+  <span class="skill-tag">COMSOL</span>
+  <span class="skill-tag">English (Fluent)</span>
+</div>
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=uv82N_7dV3rkBt0dfztE_3a8xjOEZQwsnE6OqptIpDE&cl=ffffff&w=a"></script>

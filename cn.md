@@ -66,9 +66,30 @@ title: 主页中文版
 ---
 
 ### <i data-lucide="book-open" class="icon-rigorous"></i> 教育背景
-- **2023 – 至今**  工学硕士，清华大学深圳国际研究生院，环境科学与新能源技术专业
-- **2024 – 2025**  访问学生，南方科技大学，工学院计算机科学与工程系 
-- **2019 – 2023**  工学学士，青岛大学计算机科学技术学院，信息安全专业  
+
+<div class="timeline">
+  <div class="timeline-item">
+    <span class="timeline-date">2023 — 至今</span>
+    <div class="timeline-content">
+      <strong>工学硕士</strong><br>
+      清华大学深圳国际研究生院，环境科学与新能源技术专业
+    </div>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2024 — 2025</span>
+    <div class="timeline-content">
+      <strong>访问学生</strong><br>
+      南方科技大学，工学院计算机科学与工程系
+    </div>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2019 — 2023</span>
+    <div class="timeline-content">
+      <strong>工学学士</strong><br>
+      青岛大学计算机科学技术学院，信息安全专业
+    </div>
+  </div>
+</div>
 
 ---
 
@@ -77,36 +98,47 @@ title: 主页中文版
 
 ---
 
-### <i data-lucide="microscope" class="icon-rigorous"></i> 研究兴趣
-
-- <i data-lucide="zap" class="icon-rigorous" style="width: 1em; height: 1em;"></i> **能源系统与储能电池的人工智能（AI for Energy Systems & Battery Storage）**  
-  - 电池储能系统安全的**数据驱动建模**与**智能预测**
-  - 面向低碳、安全与稳定运行的**能源系统智能优化**
-  - 能源系统与多能网络的**机器学习**建模与优化
-  - 能源器件**物理过程**的科学机器学习与**生成式模型**
-
-- <i data-lucide="thermometer" class="icon-rigorous" style="width: 1em; height: 1em;"></i> **热管理与能源安全**  
-  先前，我的研究聚焦于**锂离子电池热管理**，这也自然延伸出我对**AI驱动能源系统**的兴趣。  
-  - 锂离子电池热失控抑制机制与相变材料（PCM）冷却策略  
-  - 高倍率放电下的热行为分析与仿真  
-  - 有限元建模与多物理场模拟  
-
-- <i data-lucide="shield-check" class="icon-rigorous" style="width: 1em; height: 1em;"></i> **可信人工智能与生成模型安全**
-  - 基于扩散模型的 AIGC 内容安全研究：利用 PGD 对抗攻击防御和数字水印方法  
-  - 云计算与物联网中的隐私保护：包括云端辅助与物联网安全，采用矩阵变换方法实现图像去噪与分割  
-  - 将可信机器学习与鲁棒性优化技术拓展应用于数字低碳能源系统
+<div class="research-grid">
+  <div class="research-card">
+    <h3><i data-lucide="zap" class="icon-rigorous" style="width:1.3em;height:1.3em;"></i> 能源AI与储能安全</h3>
+    <p>聚焦电池储能系统的<strong>数据驱动建模</strong>、安全预警与智能优化，探索物理过程的科学机器学习与生成式模型。</p>
+  </div>
+  <div class="research-card">
+    <h3><i data-lucide="thermometer" class="icon-rigorous" style="width:1.3em;height:1.3em;"></i> 热管理与能源安全</h3>
+    <p>研究锂离子电池热失控抑制机制、PCM耦合冷却策略及高倍率放电热行为，利用<strong>多物理场仿真</strong>提升能源安全。</p>
+  </div>
+  <div class="research-card">
+    <h3><i data-lucide="shield-check" class="icon-rigorous" style="width:1.3em;height:1.3em;"></i> 可信AI与内容安全</h3>
+    <p>研究 AIGC 内容安全（Diffusion模型水印/对抗防御）及物联网隐私保护，将<strong>鲁棒优化</strong>应用于数字能源系统。</p>
+  </div>
+</div>
 
 ---
 
 ### <i data-lucide="megaphone" class="icon-rigorous"></i> 最新动态
-- **2026.03**  一作论文关于锂离子电池热失控预警的研究被 *Process Safety and Environmental Protection* 接收（[DOI](https://doi.org/10.1016/j.psep.2026.108830)）
-- **2026.03**  一作论文关于无人机电池热管理优化的研究被 *Applied Thermal Engineering* 接收（[DOI](https://doi.org/10.1016/j.applthermaleng.2026.130845)）
-- **2026.03**  成功更新了基于AI工具的数字化研究工作流（详见[博客](https://huqiqi.net/blogs/2026_Mar)）。
-- **2026.02**  开始“锂离子电池相变材料热管理的系统性综述”研究
-- **2025.11**  开始“基于人工智能的锂离子电池热失控预警”研究
-- **2025.09**  开展“基于相变-风冷耦合的锂离子电池高倍率放电热管理”研究  
-- **2025.05**  开展“PCM耦合风冷对电池热失控传播的影响机制”研究  
-- **2024.03**  开展“基于Diffusion模型的图生图版权保护”研究  
+
+<div class="timeline">
+  <div class="timeline-item">
+    <span class="timeline-date">2026.03</span>
+    <div class="timeline-content">一作论文关于锂离子电池热失控预警的研究被 <strong>Process Safety and Environmental Protection</strong> 接收（<a href="https://doi.org/10.1016/j.psep.2026.108830">DOI</a>）</div>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2026.03</span>
+    <div class="timeline-content">一作论文关于无人机电池热管理优化的研究被 <strong>Applied Thermal Engineering</strong> 接收（<a href="https://doi.org/10.1016/j.applthermaleng.2026.130845">DOI</a>）</div>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2026.03</span>
+    <div class="timeline-content">成功更新了基于AI工具的数字化研究工作流（详见<a href="https://huqiqi.net/blogs/2026_Mar">博客</a>）。</div>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2026.02</span>
+    <div class="timeline-content">开始“锂离子电池相变材料热管理的系统性综述”研究</div>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2025.11</span>
+    <div class="timeline-content">开始“基于人工智能的锂离子电池热失控预警”研究</div>
+  </div>
+</div>
 
 ---
 
@@ -116,15 +148,41 @@ title: 主页中文版
 ---
 
 ### <i data-lucide="history" class="icon-rigorous"></i> 研究经历
-- *2024.01 – 2024.12*  访问研究生，南方科技大学计算机系，可信扩散模型与AIGC内容安全  
-- *2021.01 – 2021.11*  本科科研实习，青岛大学计算机学院，隐私保护与安全外包计算  
+
+<div class="timeline">
+  <div class="timeline-item">
+    <span class="timeline-date">2024.01 – 2024.12</span>
+    <div class="timeline-content">
+      <strong>访问研究生</strong><br>
+      南方科技大学计算机系，可信扩散模型与AIGC内容安全
+    </div>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2021.01 – 2021.11</span>
+    <div class="timeline-content">
+      <strong>本科科研实习</strong><br>
+      青岛大学计算机学院，隐私保护与安全外包计算
+    </div>
+  </div>
+</div>
 
 ---
 
 ### <i data-lucide="code-2" class="icon-rigorous"></i> 技能与科研工具
-我常用的科研开发与仿真工具包括：
-- **编程语言：** Python、MATLAB、C、LaTeX  
-- **框架与库：** PyTorch、TensorFlow（深度学习）、scikit-learn（机器学习）  
-- **科研工具：** Linux、Git、VSCode、Anaconda、COMSOL 多物理场仿真  
-- **语言能力：** 中文（母语）、英文（流利）
+
+<div class="skill-tag-container">
+  <span class="skill-tag">Python</span>
+  <span class="skill-tag">MATLAB</span>
+  <span class="skill-tag">C</span>
+  <span class="skill-tag">LaTeX</span>
+  <span class="skill-tag">PyTorch</span>
+  <span class="skill-tag">TensorFlow</span>
+  <span class="skill-tag">scikit-learn</span>
+  <span class="skill-tag">Linux</span>
+  <span class="skill-tag">Git</span>
+  <span class="skill-tag">VSCode</span>
+  <span class="skill-tag">Anaconda</span>
+  <span class="skill-tag">COMSOL</span>
+  <span class="skill-tag">英语（流利）</span>
+</div>
 
