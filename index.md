@@ -37,12 +37,10 @@ layout: page
       <li><i data-lucide="graduation-cap" class="icon-rigorous"></i> Master’s student at Tsinghua University (SIGS) </li>
       <li><i data-lucide="flask-conical" class="icon-rigorous"></i> <strong>Research:</strong> AI for Energy Storage, thermal safety modeling, diffusion models, robust machine learning</li>
       <li><i data-lucide="wrench" class="icon-rigorous"></i> <strong>Technical strengths:</strong> PyTorch, scientific ML, optimization, thermal modeling and multiphysics simulation</li>
-      <li><i data-lucide="target" class="icon-rigorous"></i> <strong>Seeking PhD (Fall 2027)</strong> in Energy-AI, Battery Safety & Thermal Modeling, Scientific ML for Multiphysics Systems, and Physical Generative Models</li>
       <li><i data-lucide="mail" class="icon-rigorous"></i> <strong>Email:</strong> chelseyhu111@gmail.com</li>
     </ul>
     <div class="meta-container" style="margin-top: 25px;">
       <span class="chip chip-journal"><i data-lucide="flask-conical" class="icon-rigorous" style="margin-right: 4px; width: 14px; height: 14px; color: inherit;"></i> AI-accelerated Energy Systems</span>
-      <span class="chip chip-if"><i data-lucide="target" class="icon-rigorous" style="margin-right: 4px; width: 14px; height: 14px; color: inherit;"></i> Seeking PhD (Fall 2027)</span>
     </div>
   </div>
 </div>
