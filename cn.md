@@ -47,7 +47,6 @@ title: 主页中文版
     </ul>
     <div class="meta-container" style="margin-top: 25px;">
       <span class="chip chip-journal"><i data-lucide="flask-conical" class="icon-rigorous" style="margin-right: 4px; width: 14px; height: 14px; color: inherit;"></i> AI for Energy Systems & Storage Safety</span>
-      <span class="chip chip-if"><i data-lucide="target" class="icon-rigorous" style="margin-right: 4px; width: 14px; height: 14px; color: inherit;"></i> 目标申请 2027 Fall PhD</span>
     </div>
   </div>
 </div>
