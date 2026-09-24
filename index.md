@@ -180,4 +180,10 @@ I aim to bridge the gap between *material thermal mechanisms, system operations,
 </div>
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=uv82N_7dV3rkBt0dfztE_3a8xjOEZQwsnE6OqptIpDE&cl=ffffff&w=a"></script>
+<div style="margin-top: 40px; text-align: center;">
+  <script
+    type="text/javascript"
+    id="clustrmaps"
+    src="https://clustrmaps.com/map_v2.js?d=uv82N_7dV3rkBt0dfztE_3a8xjOEZQwsnE6OqptIpDE&cl=ffffff&w=a">
+  </script>
+</div>
