@@ -18,7 +18,7 @@ title: Awards
   }
 </style>
 
-## Honors
+
 ## Honors
 <ul class="styled-list" style="max-width: 900px; margin-bottom: 40px;">
 
