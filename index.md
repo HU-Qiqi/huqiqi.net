@@ -83,21 +83,21 @@ I aim to bridge the gap between *material thermal mechanisms, system operations,
 
 <div class="timeline">
   <div class="timeline-item">
-    <span class="timeline-date">2024.09 — Present </span>
+    <span class="timeline-date">2023.09 — Present </span>
     <div class="timeline-content">
       <strong>M.Eng. in Environmental Science and New Energy Technology</strong><br>
       Shenzhen International Graduate School, Tsinghua University
     </div>
   </div>
   <div class="timeline-item">
-    <span class="timeline-date">2024.03 — 2024.08 </span>
+    <span class="timeline-date">2024.04 — 2024.12 </span>
     <div class="timeline-content">
       <strong>Visiting Research Student</strong><br>
       Department of Computer Science and Engineering, SUSTech
     </div>
   </div>
   <div class="timeline-item">
-    <span class="timeline-date">2020.09 — 2024.06 </span>
+    <span class="timeline-date">2019.09 — 2023.06 </span>
     <div class="timeline-content">
       <strong>B.Eng. in Information Security</strong><br>
       School of Computer Science and Technology, Qingdao University
