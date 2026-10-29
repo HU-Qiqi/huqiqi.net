@@ -19,12 +19,58 @@ title: Awards
 </style>
 
 ## Honors
+## Honors
 <ul class="styled-list" style="max-width: 900px; margin-bottom: 40px;">
-  <li><strong>Top Graduate (1st place)</strong>, School of Computer Science and Technology, Qingdao University, Class of 2023  <strong>(Recognized in the School’s Annual Talent Development Report)</strong> <span class="chip chip-year" style="float: right;">2023</span><div style="clear: both;"></div></li>
-  <li><strong>Qingdao University Star Award</strong> — Highest university-wide honor <span class="chip chip-year" style="float: right;">2023</span><div style="clear: both;"></div></li>
-  <li><strong>Project Lead</strong>, Shandong Provincial Innovation & Entrepreneurship Program <span class="chip chip-year" style="float: right;">2021</span><div style="clear: both;"></div></li>
-  <li>Academic Progress Award, Qingdao University <span class="chip chip-year" style="float: right;">2022</span><div style="clear: both;"></div></li>
-  <li>Second-Class Academic Scholarship, Qingdao University <span class="chip chip-year" style="float: right;">2020</span><div style="clear: both;"></div></li>
+
+  <li>
+    <strong>Tsinghua Friends – BYD Scholarship</strong> — First-Class Comprehensive Scholarship, Tsinghua University
+    <span class="chip chip-year" style="float: right;">2026</span>
+    <div style="clear: both;"></div>
+  </li>
+
+  <li>
+    <strong>Outstanding Student Award</strong>, Tsinghua University (2025–2026 Academic Year)
+    <span class="chip chip-year" style="float: right;">2026</span>
+    <div style="clear: both;"></div>
+  </li>
+
+  <li>
+    <strong>Academic Scholarship for Master's Students</strong>, Tsinghua University
+    <span class="chip chip-year" style="float: right;">2025</span>
+    <div style="clear: both;"></div>
+  </li>
+
+  <li>
+    <strong>Top Graduate (1st place)</strong>, School of Computer Science and Technology, Qingdao University, Class of 2023
+    <strong>(Recognized in the School’s Annual Talent Development Report)</strong>
+    <span class="chip chip-year" style="float: right;">2023</span>
+    <div style="clear: both;"></div>
+  </li>
+
+  <li>
+    <strong>Qingdao University Star Award</strong> — Highest university-wide honor
+    <span class="chip chip-year" style="float: right;">2023</span>
+    <div style="clear: both;"></div>
+  </li>
+
+  <li>
+    <strong>Project Lead</strong>, Shandong Provincial Innovation & Entrepreneurship Program
+    <span class="chip chip-year" style="float: right;">2021</span>
+    <div style="clear: both;"></div>
+  </li>
+
+  <li>
+    Academic Progress Award, Qingdao University
+    <span class="chip chip-year" style="float: right;">2022</span>
+    <div style="clear: both;"></div>
+  </li>
+
+  <li>
+    Second-Class Academic Scholarship, Qingdao University
+    <span class="chip chip-year" style="float: right;">2020</span>
+    <div style="clear: both;"></div>
+  </li>
+
 </ul>
 
 ## Competitions
