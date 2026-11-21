@@ -11,6 +11,7 @@ comments: true
 内容偏向长期判断与现实观察，而非即时随笔。
 
 ### 2026
+- [硕士毕业答辩 · 一段旅程的终点，也是新的起点](https://huqiqi.net/blogs/2026_Nov)<br>
 - [3月研究月报｜在返修、接收与重新确认方向中继续向前](https://huqiqi.net/blogs/2026_Mar)<br>
 
 ### 2025
