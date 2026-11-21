@@ -53,7 +53,7 @@ title: 主页中文版
 
 ### 个人介绍
 
-<img src="/images/Defense1.jpg" alt="Profile Picture" class="about-me-photo">
+<img src="/images/3.jpg" alt="Profile Picture" class="about-me-photo">
 
 我是胡齐齐，2002年生，目前就读于**{{ site.owner.university_cn }}{{ site.owner.department_cn }}**，攻读环境科学与新能源技术专业硕士学位，师从[**{{ site.owner.advisor_cn }}**]({{ site.owner.advisor_url }})，在**{{ site.owner.lab_cn }}**开展研究。我目前的研究聚焦于**人工智能与储能的交叉领域（AI for Energy Storage）**，探索利用数据驱动与优化方法推动低碳能源技术创新。  
 
