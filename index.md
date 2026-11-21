@@ -111,6 +111,10 @@ I aim to bridge the gap between *material thermal mechanisms, system operations,
 
 <div class="timeline">
   <div class="timeline-item">
+    <span class="timeline-date">2026.11</span>
+    <div class="timeline-content">I am honored to have successfully defended my master's thesis at Tsinghua University! </div>
+  </div>
+  <div class="timeline-item">
     <span class="timeline-date">2026.03</span>
     <div class="timeline-content">Our paper on interpretable prediction of lithium-ion battery thermal runaway severity was accepted by <strong>Process Safety and Environmental Protection</strong> (<a href="https://doi.org/10.1016/j.psep.2026.108830">DOI</a>)</div>
   </div>
