@@ -117,6 +117,10 @@ title: 主页中文版
 
 <div class="timeline">
   <div class="timeline-item">
+    <span class="timeline-date">2026.11</span>
+    <div class="timeline-content">很荣幸顺利通过清华大学硕士学位论文答辩！</div>
+  </div>
+  <div class="timeline-item">
     <span class="timeline-date">2026.03</span>
     <div class="timeline-content">一作论文关于锂离子电池热失控预警的研究被 <strong>Process Safety and Environmental Protection</strong> 接收（<a href="https://doi.org/10.1016/j.psep.2026.108830">DOI</a>）</div>
   </div>
