@@ -118,7 +118,7 @@ title: 主页中文版
 <div class="timeline">
   <div class="timeline-item">
     <span class="timeline-date">2026.11</span>
-    <div class="timeline-content">很荣幸顺利通过清华大学硕士学位论文答辩！</div>
+    <div class="timeline-content">很荣幸顺利通过清华大学硕士学位论文答辩 （详见<a href="https://huqiqi.net/blogs/2026_Nov">博客</a>）！</div>
   </div>
   <div class="timeline-item">
     <span class="timeline-date">2026.03</span>
