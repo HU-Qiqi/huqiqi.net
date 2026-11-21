@@ -112,7 +112,7 @@ I aim to bridge the gap between *material thermal mechanisms, system operations,
 <div class="timeline">
   <div class="timeline-item">
     <span class="timeline-date">2026.11</span>
-    <div class="timeline-content">I am honored to have successfully defended my master's thesis at Tsinghua University! </div>
+    <div class="timeline-content">I am honored to have successfully defended my master's thesis at Tsinghua University!  (See <a href="https://huqiqi.net/blogs/2026_Nov">Blog post</a>) </div>
   </div>
   <div class="timeline-item">
     <span class="timeline-date">2026.03</span>
